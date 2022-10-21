@@ -80,3 +80,8 @@ h5 {
 .py-3 {
     padding-bottom: 2rem !important;
 }
+
+.contact_link:hover{
+
+    box-shadow: 15px 15px 8px 3px;
+}
