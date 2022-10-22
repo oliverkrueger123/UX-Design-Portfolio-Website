@@ -85,3 +85,12 @@ h5 {
 
     box-shadow: 15px 15px 8px 3px;
 }
+
+#navbarSupportedContent{
+    padding-left: 150px;
+}
+
+.nav-item{
+    margin-left: 20px;
+    margin-right: 20px;
+}
