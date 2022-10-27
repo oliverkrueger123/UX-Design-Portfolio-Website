@@ -101,11 +101,13 @@ h5 {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 .social-links{
     margin-left: 3rem;
     margin-right: 3rem;
     margin-top: 2rem;
+    
 }
 .contact_link, .row{
     display: flex;
